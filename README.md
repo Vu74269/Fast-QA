@@ -6,9 +6,9 @@ Users can provide a context paragraph and ask a question. The model extracts the
 
 ---
 
-## Hugging Face Model
+## Demo Streamlit App
 
-https://huggingface.co/Vu74269/bert-squadv2-base
+https://fast-q-a-squad.streamlit.app/
 
 ---
 
@@ -21,6 +21,10 @@ https://huggingface.co/Vu74269/bert-squadv2-base
 ---
 
 ## Model
+
+### Hugging Face Model
+
+https://huggingface.co/Vu74269/bert-squadv2-base
 
 Base Model:
 
@@ -118,7 +122,7 @@ Metrics:
 
 ---
 
-## Technologies Used
+## Tech Stack
 
 - Python
 - PyTorch
