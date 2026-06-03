@@ -41,8 +41,8 @@ Task:
 Clone repository:
 
 ```bash
-git clone https://github.com/Vu74269/Fast-QandA.git
-cd Fast-QandA
+git clone https://github.com/Vu74269/Fast-QA.git
+cd Fast-QA
 ```
 
 Create virtual environment:
@@ -86,19 +86,19 @@ streamlit run app.py
 ### Context
 
 ```text
-The Normans were the people who gave their name to Normandy, a region in France.
+The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse ("Norman" comes from "Norseman") raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the Carolingian-based cultures of West Francia. The distinct cultural and ethnic identity of the Normans emerged initially in the first half of the 10th century, and it continued to evolve over the succeeding centuries.
 ```
 
 ### Question
 
 ```text
-What region in France was named after the Normans?
+From which countries did the Norse originate?
 ```
 
 ### Answer
 
 ```text
-Normandy
+Denmark, Iceland and Norway
 ```
 
 ---
