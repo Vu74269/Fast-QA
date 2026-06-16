@@ -11,8 +11,8 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("🤖 Question Answering App")
-st.write("Using fine-tuned BERT base uncased model on SQuAD 2.0 dataset")
+st.title("Question Answering App v2.0")
+st.write("Using fine-tuned BERT base uncased model on a modified SQuAD 2.0 dataset")
 
 
 # Load model
