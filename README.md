@@ -110,13 +110,13 @@ The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the peop
 ### Question
 
 ```text
-From which countries did the Norse originate?
+When were the Normans in Normandy?
 ```
 
 ### Answer
 
 ```text
-Denmark, Iceland and Norway
+10th and 11th centuries
 ```
 
 ---
