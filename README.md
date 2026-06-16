@@ -1,6 +1,6 @@
-# 🤖 BERT Question Answering App
+# BERT Question Answering App
 
-A Question Answering (QA) web application built with Streamlit and a fine-tuned BERT model on the SQuAD 2.0 dataset.
+A Question Answering (QA) web application built with Streamlit and a fine-tuned BERT model on a modified SQuAD 2.0 dataset.
 
 Users can provide a context paragraph and ask a question. The model extracts the most relevant answer from the context or predicts that no answer exists.
 
@@ -19,6 +19,20 @@ https://fast-q-a-squad.streamlit.app/
 - Confidence score display
 
 ---
+
+## Dataset
+
+### Hugging Face Dataset
+
+https://huggingface.co/datasets/Vu74269/SQuAD2.0_balanced
+
+Description: 
+
+- An extended version of SQuAD 2.0 created by adding 50K+ unanswerable questions (from other contexts within the same article). The sole purpose is to improve model's ability to detect unanswerable questions.
+
+Original dataset:
+
+- https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/
 
 ## Model
 
@@ -117,8 +131,8 @@ Metrics:
 
 | Metric | Score |
 |----------|----------|
-| Exact Match (EM) | 64.36 |
-| F1 Score | 71.37 |
+| Exact Match (EM) | 74.404 |
+| F1 Score | 77.633 |
 
 ---
 
