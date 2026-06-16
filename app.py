@@ -3,7 +3,7 @@ import torch
 from src.model_loader import load_model
 from src.inference import predict
 
-MODEL_NAME = "Vu74269/bert-squadv2-base"
+MODEL_NAME = "Vu74269/bert-squadv2-extend-base"
 
 st.set_page_config(
     page_title="QA App",
